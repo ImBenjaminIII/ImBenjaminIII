@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Moreno</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img alt="Coding" width="400" src="https://wallpaperaccess.com/full/8278296.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
