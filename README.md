@@ -1,4 +1,4 @@
-<img alt="Coding" width="400" src="https://thumbs.gfycat.com/FrigidLavishAmazondolphin-size_restricted.gif">
+<img align="right" alt="Coding" width="500" src="https://thumbs.gfycat.com/FrigidLavishAmazondolphin-size_restricted.gif">
 <h1 align="center">Hi 👋, I'm Benjamin Moreno</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
